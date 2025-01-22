@@ -1,0 +1,1 @@
+/mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/target/wasm32-unknown-unknown/release/escrow_contract_wasm.wasm: /mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/src/escrow_contract.rs /mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/wasm/src/lib.rs

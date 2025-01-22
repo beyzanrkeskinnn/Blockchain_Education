@@ -1,0 +1,1 @@
+/mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/target/debug/escrow-contract-meta: /mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/meta/src/main.rs /mnt/d/Blockchain_Education/escrow-finalproject/escrow-contract/src/escrow_contract.rs
