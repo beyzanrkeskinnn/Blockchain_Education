@@ -1,0 +1,1 @@
+/mnt/d/Blockchain_Education/homework2/crowdfunding/target/wasm32-unknown-unknown/release/crowdfunding_wasm.wasm: /mnt/d/Blockchain_Education/homework2/crowdfunding/src/crowdfunding.rs /mnt/d/Blockchain_Education/homework2/crowdfunding/wasm/src/lib.rs

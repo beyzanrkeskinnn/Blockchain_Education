@@ -1,0 +1,1 @@
+/mnt/d/Blockchain_Education/homework2/crowdfunding/target/debug/crowdfunding-meta: /mnt/d/Blockchain_Education/homework2/crowdfunding/meta/src/main.rs /mnt/d/Blockchain_Education/homework2/crowdfunding/src/crowdfunding.rs

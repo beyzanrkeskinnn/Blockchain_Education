@@ -1,0 +1,11 @@
+/mnt/d/Blockchain_Education/homework2/crowdfunding/target/debug/deps/libconvert_case-1615f0279a218ef4.rmeta: /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/mnt/d/Blockchain_Education/homework2/crowdfunding/target/debug/deps/libconvert_case-1615f0279a218ef4.rlib: /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/mnt/d/Blockchain_Education/homework2/crowdfunding/target/debug/deps/convert_case-1615f0279a218ef4.d: /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs:
+/home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs:
+/home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs:
+/home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs:
+/home/beyza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs:
